@@ -3,7 +3,7 @@
 	"version": "6.8.3",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tinymce/tinymce.git",
+		"url": "https://github.com/MediClinics/tinycme.git",
 		"directory": "modules/tinymce"
 	},
 	"description": "Web based JavaScript HTML WYSIWYG editor control.",
@@ -25,8 +25,8 @@
 		"contenteditable",
 		"editing"
 	],
-	"homepage": "https://www.tiny.cloud/",
+	"homepage": "https://www.mediclinics.com.br/",
 	"bugs": {
-		"url": "https://github.com/tinymce/tinymce/issues"
+		"url": "https://github.com/MediClinics/tinycme/issues"
 	}
 }
